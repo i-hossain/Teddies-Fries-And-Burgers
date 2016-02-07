@@ -1,5 +1,5 @@
-A 2D game project from Coursera
+<h3><u>A 2D game project from Coursera</u></h3>
 
-source: https://www.coursera.org/course/gameprogramming
+<b>source:</b> https://www.coursera.org/course/gameprogramming
 
-Environment Setup Instructions: https://class.coursera.org/gameprogramming-002/wiki/SettingUpYourDevelopmentEnvironment
+<b>Environment Setup Instructions:</b> https://class.coursera.org/gameprogramming-002/wiki/SettingUpYourDevelopmentEnvironment
