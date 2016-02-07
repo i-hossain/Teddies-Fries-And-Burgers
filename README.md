@@ -1,4 +1,4 @@
-<h3><u>A 2D game project available on Coursera</u></h3>
+<h3><u>A 2D game project, available on Coursera</u></h3>
 
 <b>Source:</b> https://www.coursera.org/course/gameprogramming
 
